@@ -29,7 +29,7 @@
 }
 .mac-book-air1-text {
   left: 73px;
-  color: rgba(0, 0, 0, 1);
+  color: rgb(0, 0, 0);
   width: 323px;
   bottom: 40px;
   height: auto;
@@ -107,7 +107,7 @@
 .mac-book-air1-text09 {
   top: 387px;
   left: 138px;
-  color: rgba(0, 0, 0, 1);
+  color: rgb(46, 0, 121);
   height: auto;
   position: absolute;
   font-size: 30px;
@@ -122,7 +122,7 @@
 .mac-book-air1-text11 {
   top: 387px;
   left: 823px;
-  color: rgba(0, 0, 0, 1);
+  color: rgb(46, 0, 121);
   height: auto;
   position: absolute;
   font-size: 30px;
@@ -633,3 +633,4 @@
   font-stretch: normal;
   text-decoration: none;
 }
+
