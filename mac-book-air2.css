@@ -88,8 +88,22 @@
   height: 38px;
   position: absolute;
 }
+.mac-book-air2-navlink {
+  display: contents;
+}
+.mac-book-air2-container1 {
+  top: 6px;
+  left: -4px;
+  width: 120.875px;
+  height: 65px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  text-decoration: none;
+}
 .mac-book-air2-text06 {
-  top: 2px;
+  top: 0px;
+  left: 0px;
   color: rgba(255, 255, 255, 1);
   width: 30px;
   height: auto;
@@ -104,10 +118,10 @@
   text-decoration: none;
 }
 .mac-book-air2-text07 {
-  top: 41px;
-  left: 1.8807871341705322px;
+  left: 5.875px;
   color: rgba(0, 0, 0, 1);
   width: 115px;
+  bottom: 0px;
   height: auto;
   position: absolute;
   font-size: 15px;
@@ -120,7 +134,8 @@
   text-decoration: none;
 }
 .mac-book-air2-text09 {
-  left: 33.85416793823242px;
+  top: 2px;
+  left: 37px;
   color: rgba(0, 0, 0, 1);
   width: 34px;
   height: auto;
